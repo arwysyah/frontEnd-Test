@@ -17,3 +17,9 @@ API that i used [https://picsum.photos/v2/list]
 
 ### `SHOOOOORT`
 i am shorten the api with Shooooort
+
+
+### Deployment
+http://impraise-shorties.herokuapp.com/
+
+![Home](https://res.cloudinary.com/kenzo/image/upload/v1579252926/pm29p7zxtskbaytjs1pg.png)
